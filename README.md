@@ -1,4 +1,4 @@
- ## Hi, I'm Will Chapman 👋
+ ## Hi, I'm Will Chapman
 
   Senior DevOps/Cloud Engineer focused on building reliable AWS platforms, automation, and secure delivery pipelines.
 

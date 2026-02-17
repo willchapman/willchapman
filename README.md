@@ -1,16 +1,19 @@
-## Hi there 👋
+ ## Hi, I'm Will Chapman 👋
 
-<!--
-**willchapman/willchapman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Senior DevOps/Cloud Engineer focused on building reliable AWS platforms, automation, and secure delivery pipelines.
 
-Here are some ideas to get you started:
+  ### 🔧 Focus
+  - AWS architecture and operations
+  - Terraform and infrastructure as code
+  - Kubernetes and container platforms
+  - CI/CD modernization
+  - Serverless and event-driven workflows
+  - Production reliability, incident response, and root cause analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### 📌 Selected Public Repositories
+  - `linkster-n4` - Niagara N4 utility for automating many-to-many links. This is no longer supported by me. 
+  - `linkster-ax` - Niagara AX link automation utility. This is no longer supported by me.
+  - `docker-health-check` - lightweight service for container health checks.
+
+  ### 🔒 Note
+  Most recent client and production work is delivered in private repositories.

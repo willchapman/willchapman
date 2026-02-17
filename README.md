@@ -11,9 +11,9 @@
   - Production reliability, incident response, and root cause analysis
 
   ### 📌 Selected Public Repositories
-  - `linkster-n4` - Niagara N4 utility for automating many-to-many links. This is no longer supported by me. 
-  - `linkster-ax` - Niagara AX link automation utility. This is no longer supported by me.
-  - `docker-health-check` - lightweight service for container health checks.
+  - `linkster-n4` - Niagara N4 utility for automating many-to-many links. This is no longer maintained by me. 
+  - `linkster-ax` - Niagara AX link automation utility. This is no longer maintained by me.
+  - `docker-health-check` - lightweight service for container health checks. This was a POC that is no longer maintained.
 
   ### 🔒 Note
   Most recent client and production work is delivered in private repositories.
